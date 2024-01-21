@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IsaDronning
-- 👀 I’m interested in music, philosophy, and linguistics
+- 👀 I’m interested in music, fantasy, sci-fi, philosophy, and linguistics
 - 🌱 I’m currently learning Python, C, and Java
 - 💞️ I’m looking to collaborate on music and educational software
 - 📫 How to reach me alexandrazerner@pm.me
