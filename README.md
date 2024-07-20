@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IsaDronning
+- 👋 Hi, I’m @HexeDecima
 - 👀 I’m interested in music, fantasy, sci-fi, philosophy, and linguistics
 - 🌱 I’m currently learning Python, C, C++, Arduino, and Java
 - 💞️ I’m looking to collaborate on music and educational software
