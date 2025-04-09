@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HexeDecima
 - 👀 I’m interested in music, fantasy, sci-fi, philosophy, and linguistics
-- 🌱 I’m currently learning Python, C, C++, Arduino, and Java
+- 🌱 I’m currently learning C, C++, Java, Arduino, and Python
 - 💞️ I’m looking to collaborate on music and educational software
 - 📫 How to reach me alexandrazerner@pm.me
 - 😄 Pronouns: she/her
